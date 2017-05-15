@@ -1,0 +1,85 @@
+#s-b440590a-aefb-4653-b60d-e56cc223064f > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-b440590a-aefb-4653-b60d-e56cc223064f > #alignmentBox {
+  position: relative;
+  margin: 0 auto;
+  width: 1024px;
+  min-width: 1024px;
+  min-height: 768px;
+}
+#s-b440590a-aefb-4653-b60d-e56cc223064f #s-Image_1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1024px;
+  height: 768px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-b440590a-aefb-4653-b60d-e56cc223064f #s-Button_13 {
+  position: absolute;
+  top: 610px;
+  left: 422px;
+  width: 154px;
+  height: 31px;
+  background-color: #6ACA6B;
+  background-image: none;
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-color: #6ACA6B;
+  border-right-width: 2px;
+  border-right-style: solid;
+  border-right-color: #6ACA6B;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #6ACA6B;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-left-color: #6ACA6B;
+  border-radius: 22px 22px 22px 22px;
+  padding-top: 11px;
+  padding-right: 11px;
+  padding-bottom: 11px;
+  padding-left: 11px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  cursor: pointer;
+  font-size: 20.0pt;
+  font-family: 'Nexa Bold',Arial;
+}
+#s-b440590a-aefb-4653-b60d-e56cc223064f #s-Button_13 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-b440590a-aefb-4653-b60d-e56cc223064f #s-Button_13 span {
+  color: #232C3D;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Nexa Bold',Arial;
+  font-size: 20.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b440590a-aefb-4653-b60d-e56cc223064f #s-Button_13 span#rtr-s-Button_13_0 {
+  color: #232C3D;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Nexa Bold',Arial;
+  font-size: 20.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b440590a-aefb-4653-b60d-e56cc223064f > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
